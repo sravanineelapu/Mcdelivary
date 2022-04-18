@@ -1,0 +1,1 @@
+{"uuid":"056ff849-08ec-4115-aa74-21204411768a","name":"TestNG.Reports","children":["48ba37ba-d42d-47b1-ace2-a2c56b965666"],"befores":[{"name":"setDriver","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1650267641950,"stop":1650267645134}],"afters":[],"links":[],"start":1650267641919,"stop":1650267678270}
